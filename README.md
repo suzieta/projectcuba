@@ -1,7 +1,6 @@
 # projectcuba
 Second COMMIT! Yeahhhh ;P
 
-<<<<<<< HEAD
 
 * hye beauty!!
 
@@ -9,6 +8,8 @@ Second COMMIT! Yeahhhh ;P
 
 
 * Min di sini ..Yeayyy
+
+* Hye suzieta!!
 
 
 
