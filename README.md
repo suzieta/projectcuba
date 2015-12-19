@@ -1,7 +1,7 @@
 # projectcuba
 Second COMMIT! Yeahhhh ;P
 
-hye beauty!!
+* hye beauty!!
 
 #endtraining
 
