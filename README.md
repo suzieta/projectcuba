@@ -2,6 +2,7 @@
 Second COMMIT! Yeahhhh ;P
 
 
+
 * hye beauty!!
 
 * if you are reading this, zubir is already here
@@ -9,9 +10,11 @@ Second COMMIT! Yeahhhh ;P
 
 * Min di sini ..Yeayyy
 
+
 * Hye suzieta!!
 
 
+* abudzar
 
 #endtraining
 
