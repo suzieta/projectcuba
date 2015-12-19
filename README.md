@@ -1,3 +1,3 @@
 # projectcuba
-This repo is for training purpose.
+Second COMMIT! Yeahhhh ;P
 #endtraining
